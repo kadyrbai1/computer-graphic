@@ -50,9 +50,28 @@
  <img src="./IO_Watch/CAD/Images/5.jpg" width="300">
 </p>
 
+
+## Programming
+<p>Using the FTDI test (connection) pads provided on the back of the PCB you can use a cheap FTDI converter to upload the code.</p>
 <img src="./IO_Watch/CAD/Images/3.jpg">
-<img src="./IO_Watch/CAD/Images/4.jpg">
 
+## 3D Modeling and Printing
+<p>verything except wrist watch band and glass - 3D prints, That includes
 
+- Main body
+- Outer Glass ring
+- Bottom body
+- Buttons
+I used the following settings in Cura for my prints:
+
+- 3D Printer - Prusa I3 MK3S
+- Material: PLA
+- Layer Height - 0.1 mm
+- Shell Thickness - 0.8 mm (Nozzle: 0.4 - 2 Shells)
+- Top and Bottom Thickness - 0.8mm
+- Fill Density - 100%
+- Filament - 1.75mm
+- Support Type - Everywhere
+- Platform adhesion Type - Skirt</p>
 
 
