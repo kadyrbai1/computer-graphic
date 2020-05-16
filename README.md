@@ -57,6 +57,7 @@
 
 ## 3D Modeling and Printing
 <p>verything except wrist watch band and glass - 3D prints, That includes
+<img src="./IO_Watch/CAD/Images/6.jpg">
 
 - Main body
 - Outer Glass ring
@@ -73,5 +74,13 @@ I used the following settings in Cura for my prints:
 - Filament - 1.75mm
 - Support Type - Everywhere
 - Platform adhesion Type - Skirt</p>
+
+## Circuit
+<img src="./IO_Watch/CAD/Images/4.jpg">
+
+## Product
+
+<img src="./IO_Watch/CAD/Images/7.png">
+
 
 
