@@ -7,7 +7,7 @@
 - Nasip Salmakhunov
 
 ## 🔗 Usefull links
-- [Thingiverse]()
+- [Thingiverse](https://www.thingiverse.com/thing:4365258/files)
 
 
 ## Device Requirements
