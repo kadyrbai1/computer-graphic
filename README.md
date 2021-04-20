@@ -4,6 +4,7 @@
 <h1 align="center"><b>IO Watch</b></h3>
 
 ## ⌨️ Collaborators
+- Kadyrbai Aitbaev
 - Nasip Salmakhunov
 
 ## 🔗 Usefull links
